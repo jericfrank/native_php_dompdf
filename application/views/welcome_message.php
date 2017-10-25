@@ -75,7 +75,7 @@
 	<h1>Editable nana tanan. kana lang sa sample unya na tarungon tanan ug inyu na ipa integrate</h1>
 	<code>kana number nga placeholder base na sya sa number nga naa sa inyu format document</code>
 	<div id="body">
-		<form method="post" accept-charset="utf-8" action="/welcome/generate" />
+		<form method="post" accept-charset="utf-8" action="/index.php/welcome/generate" />
 			<input type="text" name="_1_month_year" placeholder="1 mmyyyy" /></br>
 			<input type="text" name="_2_yes" placeholder="2 mark if yes 'X'" /></br>
 			<input type="text" name="_2_no" placeholder="2 mark if no 'X'" /></br>
